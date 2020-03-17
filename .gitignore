@@ -26,6 +26,8 @@ build/
 *.iml
 !**/testData/**/*.iml
 .idea/
+target/
+autocruit/
 kotlin-ultimate/
 node_modules/
 .rpt2_cache/
