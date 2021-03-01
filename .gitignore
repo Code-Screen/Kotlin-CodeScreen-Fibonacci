@@ -27,7 +27,7 @@ build/
 !**/testData/**/*.iml
 .idea/
 target/
-codescreen/
+codescreen/test/output/results
 kotlin-ultimate/
 node_modules/
 .rpt2_cache/
